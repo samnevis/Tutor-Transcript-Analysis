@@ -1,6 +1,3 @@
-Here's the information formatted properly in markdown:
-
-
 ![VTT Analysis Tool Logo](ScholaImage.png)
 
 
